@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masonboyles
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data structures
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning probability
 - 💞️ I’m looking to collaborate on ios development
 - 📫 How to reach me mboyles@unc.edu
 
